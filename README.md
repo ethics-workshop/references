@@ -18,7 +18,7 @@ Pull requests are welcome!
 
 - Vulnerability research
 	- [Coordinated Vulnerability Disclosure](https://vuls.cert.org/confluence/display/CVD/Executive+Summary)
-	- [IEEE S&P Ethical Considerations for Vulnerability Disclosure] (https://sp2024.ieee-security.org/cfpapers.html)
+	- [IEEE S&P Ethical Considerations for Vulnerability Disclosure](https://sp2024.ieee-security.org/cfpapers.html)
 - Privacy and censorship
 	- [The Tor research safety guidelines](https://research.torproject.org/safetyboard/)
 - Artificial Intelligence
