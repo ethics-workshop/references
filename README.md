@@ -1,7 +1,9 @@
 References for Ethics in Computer Security Research
 ===================================================
 
-A collection of ethics principles, guidelines, committees, research papers, and more.
+This page aims to collect learning materials for ethics in computer
+security research, including ethics principles, guidelines,
+committees, research papers, and more.
 
 Pull requests are welcome!
 
@@ -32,6 +34,8 @@ Pull requests are welcome!
 	- [Ethical Maturity in User Research](https://www.nngroup.com/articles/user-research-ethics/)
 - Social engineering
 	- TBA
+- Honeypots
+	- TBA
 
 ## Ethics-review committees
 
@@ -47,8 +51,11 @@ Pull requests are welcome!
 
 ## Research papers
 
+- [Papers of EthiCS'22](https://ethics-workshop.github.io/2022/program.html)
+- [Papers of EthiCS'23](https://ethics-workshop.github.io/2023/program.html)
 - [Conducting Cybersecurity Research Legally and Ethically](https://www.usenix.org/legacy/events/leet08/tech/full_papers/burstein/burstein.pdf) - Aaron J. Burstein
-- 
+- [Building an Active Computer Security Ethics Community](https://faculty.cc.gatech.edu/~mbailey/publications/ieee-snp-ethics-2011.pdf) - Dave Dittrich et al.
+- [Ethical Frameworks and Computer Security Trolley Problems: Foundations for Conversations](https://securityethics.cs.washington.edu/ComputerSecurityTrolleyProblems.pdf) - Tadayoshi Kohno et al.
 
 
 ## Others
