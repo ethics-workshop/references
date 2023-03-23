@@ -24,7 +24,7 @@ Pull requests are welcome!
 - Privacy and censorship
 	- [The Tor research safety guidelines](https://research.torproject.org/safetyboard/)
 - Artificial Intelligence
-	- [The Ethics Guidelines for Trustworthy Artificial Intelligence](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines.1.html) - 
+	- [The Ethics Guidelines for Trustworthy Artificial Intelligence](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines.1.html)  
 	- [Principles of Artificial Intelligence Ethics for the Intelligence Community](https://www.intelligence.gov/images/AI/Principles_of_AI_Ethics_for_the_Intelligence_Community.pdf) and [AI Ethics Framework](https://www.intelligence.gov/images/AI/AI_Ethics_Framework_for_the_Intelligence_Community_1.0.pdf) 
 	- [CVPR 2023 Ethics Guidelines for Authors](https://cvpr2023.thecvf.com/Conferences/2023/EthicsGuidelines)
 - The Web
@@ -40,7 +40,7 @@ Pull requests are welcome!
 ## Ethics-review committees
 
 - Academia conferences
-	- Major security conferences typically have an ethics review
+	- Major security conferences now have an ethics review
 		committee; contact the PC chairs if you need help
 - Universities
 	- Institutional Review Boards (US) and Ethics Review Committees
