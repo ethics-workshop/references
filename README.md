@@ -52,7 +52,16 @@ Pull requests are welcome!
 ## Research papers
 
 - [Papers of EthiCS'22](https://ethics-workshop.github.io/2022/program.html)
+	- [Ethical Practices for Security Research with At-Risk	Populations](https://elissaredmiles.com/research/ethics_2022.pdf) (Best Paper)
+	- [The Ethics of Going Deep: Challenges in Machine Learning for Sensitive Security Domains](http://www0.cs.ucl.ac.uk/staff/E.Mariconti/papers/EthiCS2022v2.pdf)	
+	- [Challenges of protecting confidentiality in social media data and their ethical import](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9799350)	
+	- [When Cryptographic Ransomware Poses Cyber Threats: Ethical Challenges and Proposed Safeguards for Cybersecurity Researchers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9799383)
+	- [Ethics in Security Research: Visions, Reality, and Paths Forward](https://www.zhangmingming.org/files/papers/ethics22-ethics.pdf) (Best Student Paper)
 - [Papers of EthiCS'23](https://ethics-workshop.github.io/2023/program.html)
+	- [Understanding the Ethical Frameworks of Internet Measurement Studies](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ethics2023-239547-paper.pdf) (Best Paper)
+	- [Operationalizing Cybersecurity Research Ethics Review: From Principles and Guidelines to Practice](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ethics2023-237352-paper.pdf)
+	- [Towards More Effective Responsible Disclosure for Vulnerability Research](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ethics2023-235691-paper.pdf)
+	- [Ethical Challenges in Blockchain Network Measurement Research](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ethics2023-235725-paper.pdf)
 - [Conducting Cybersecurity Research Legally and Ethically](https://www.usenix.org/legacy/events/leet08/tech/full_papers/burstein/burstein.pdf) - Aaron J. Burstein
 - [Building an Active Computer Security Ethics Community](https://faculty.cc.gatech.edu/~mbailey/publications/ieee-snp-ethics-2011.pdf) - Dave Dittrich et al.
 - [Ethical Frameworks and Computer Security Trolley Problems: Foundations for Conversations](https://securityethics.cs.washington.edu/ComputerSecurityTrolleyProblems.pdf) - Tadayoshi Kohno et al.
